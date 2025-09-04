@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Messum",
+        "field_of_study": "Artificial Intelligence",
+        "CGPA": 3.6
+    },
+    {
+        "id": 2,
+        "name": "Ahsan",
+        "field_of_study": "Data Science",
+        "CGPA": 3.8
+    },
+    {
+        "id": 3,
+        "name": "Ali",
+        "field_of_study": "Cyber Security",
+        "CGPA": 3.2
+    },
+    {
+        "id": 4,
+        "name": "Yousuf",
+        "field_of_study": "Software Engineering",
+        "CGPA": 3.9
+    },
+    {
+        "id": 5,
+        "name": "Usman",
+        "field_of_study": "Computer Vision",
+        "CGPA": 3.5
+    },
+    {
+        "id": 6,
+        "name": "Abdullah",
+        "field_of_study": "Natural Language Processing",
+        "CGPA": 3.7
+    },
+    {
+        "id": 7,
+        "name": "Bilal",
+        "field_of_study": "Robotics",
+        "CGPA": 3.4
+    },
+    {
+        "id": 8,
+        "name": "Uzair",
+        "field_of_study": "Cloud Computing",
+        "CGPA": 3.3
+    },
+    {
+        "id": 9,
+        "name": "Hamza",
+        "field_of_study": "Big Data Analytics",
+        "CGPA": 3.6
+    },
+    {
+        "id": 10,
+        "name": "Farhan",
+        "field_of_study": "Information Systems",
+        "CGPA": 3.85
+    }
+]
