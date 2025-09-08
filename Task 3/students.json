@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Mesum",
+        "age": 22,
+        "roll_number": "R001",
+        "grade": "A"
+    },
+    {
+        "id": 2,
+        "name": "Ahsan",
+        "age": 23,
+        "roll_number": "R002",
+        "grade": "A"
+    },
+    {
+        "id": 3,
+        "name": "Ali",
+        "age": 21,
+        "roll_number": "R003",
+        "grade": "B+"
+    },
+    {
+        "id": 4,
+        "name": "Yousuf",
+        "age": 24,
+        "roll_number": "R004",
+        "grade": "A+"
+    },
+    {
+        "id": 5,
+        "name": "Usman",
+        "age": 22,
+        "roll_number": "R005",
+        "grade": "B"
+    },
+    {
+        "id": 6,
+        "name": "Abdullah",
+        "age": 23,
+        "roll_number": "R006",
+        "grade": "A-"
+    },
+    {
+        "id": 7,
+        "name": "Bilal",
+        "age": 21,
+        "roll_number": "R007",
+        "grade": "B"
+    },
+    {
+        "id": 8,
+        "name": "Uzair",
+        "age": 22,
+        "roll_number": "R008",
+        "grade": "B+"
+    },
+    {
+        "id": 9,
+        "name": "Hamza",
+        "age": 23,
+        "roll_number": "R009"
+    },
+    {
+        "id": 10,
+        "name": "Farhan",
+        "age": 24,
+        "roll_number": "R010",
+        "grade": "A"
+    },
+    {
+        "id": null,
+        "name": null,
+        "age": 19,
+        "roll_number": "R00100",
+        "grade": "B"
+    },
+    {
+        "id": null,
+        "name": null,
+        "age": 19,
+        "roll_number": "R00100",
+        "grade": "B"
+    },
+    {
+        "id": 20,
+        "name": "NewStudent",
+        "age": 19,
+        "roll_number": "R00222",
+        "grade": "A"
+    }
+]
