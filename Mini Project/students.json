@@ -1,0 +1,92 @@
+[
+    {
+        "id": "b1a7e8e2-1c2a-4e7a-9e1a-1a2b3c4d5e6f",
+        "name": "Mesum",
+        "email": "mesum@example.com",
+        "age": 22,
+        "department": "Computer Science",
+        "created_at": "2025-09-15T10:00:00Z",
+        "CGPA": 3.8
+    },
+    {
+        "id": "c2b8f9f3-2d3b-5f8b-0f2b-2b3c4d5e6f7a",
+        "name": "Ahsan",
+        "email": "ahsan@example.com",
+        "age": 23,
+        "department": "Electrical Engineering",
+        "created_at": "2025-09-15T10:01:00Z",
+        "CGPA": 3.7
+    },
+    {
+        "id": "d3c9g0g4-3e4c-6g9c-1g3c-3c4d5e6f7a8b",
+        "name": "Ali",
+        "email": "ali@example.com",
+        "age": 21,
+        "department": "Mechanical Engineering",
+        "created_at": "2025-09-15T10:02:00Z",
+        "CGPA": 3.5
+    },
+    {
+        "id": "e4d0h1h5-4f5d-7h0d-2h4d-4d5e6f7a8b9c",
+        "name": "Yousuf",
+        "email": "yousuf@example.com",
+        "age": 24,
+        "department": "Civil Engineering",
+        "created_at": "2025-09-15T10:03:00Z",
+        "CGPA": 3.9
+    },
+    {
+        "id": "f5e1i2i6-5g6e-8i1e-3i5e-5e6f7a8b9c0d",
+        "name": "Usman",
+        "email": "usman@example.com",
+        "age": 22,
+        "department": "Computer Science",
+        "created_at": "2025-09-15T10:04:00Z",
+        "CGPA": 3.6
+    },
+    {
+        "id": "g6f2j3j7-6h7f-9j2f-4j6f-6f7a8b9c0d1e",
+        "name": "Abdullah",
+        "email": "abdullah@example.com",
+        "age": 23,
+        "department": "Electrical Engineering",
+        "created_at": "2025-09-15T10:05:00Z",
+        "CGPA": 3.7
+    },
+    {
+        "id": "h7g3k4k8-7i8g-0k3g-5k7g-7g8b9c0d1e2f",
+        "name": "Bilal",
+        "email": "bilal@example.com",
+        "age": 21,
+        "department": "Mechanical Engineering",
+        "created_at": "2025-09-15T10:06:00Z",
+        "CGPA": 3.4
+    },
+    {
+        "id": "i8h4l5l9-8j9h-1l4h-6l8h-8h9c0d1e2f3g",
+        "name": "Uzair",
+        "email": "uzair@example.com",
+        "age": 22,
+        "department": "Civil Engineering",
+        "created_at": "2025-09-15T10:07:00Z",
+        "CGPA": 3.5
+    },
+    {
+        "id": "j9i5m6m0-9k0i-2m5i-7m9i-9i0d1e2f3g4h",
+        "name": "Hamza",
+        "email": "hamza@example.com",
+        "age": 23,
+        "department": "Computer Science",
+        "created_at": "2025-09-15T10:08:00Z",
+        "CGPA": 3.6
+    },
+    {
+        "id": "k0j6n7n1-0l1j-3n6j-8n0j-0j1e2f3g4h5i",
+        "name": "Farhan",
+        "email": "farhan@example.com",
+        "age": 24,
+        "department": "Electrical Engineering",
+        "created_at": "2025-09-15T10:09:00Z",
+        "CGPA": 3.8
+    }
+]
